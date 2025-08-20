@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>รักอ้วนนะ</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #ffc0cb; /* สีชมพูอ่อน */
+      color: #333;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    img {
+      width: 100%; /* รูปเต็ม container */
+      border-radius: 10px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-top: 20px;
+      color: #e91e63; /* สีชมพูเข้ม */
+    }
+    p {
+      font-size: 1.2rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://www.pinterest.com/pin/1477812374023299/" alt="Chubby cutie">
+    <h1>พี่ปะเจ้ รักอ้วนนะ</h1>
+    <p>คิดถึงน้องแบงค์มากกกกกกกกกกกกกกกกกกกก อยากเลิกงานไปเล่นเกมแล้ว</p>
+  </div>
+</body>
+</html>
